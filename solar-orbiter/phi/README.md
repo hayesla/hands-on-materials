@@ -1,10 +1,11 @@
 # PHI Tutorial ISRO_ESA workshop January 2026, India
 
 # You can run this notebook in Google Colab:
-You can also run this notebook with Google Colab:
+You can also run this notebook with Google Colab for first notebook:
+
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISRO-ESA-Heliophysics-Workshop/hands-on-materials/blob/main/solar-orbiter/phi/plot_phi_map.ipynb)
 
-and 
+and for the second notebook:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ISRO-ESA-Heliophysics-Workshop/hands-on-materials/blob/main/solar-orbiter/phi/plot_phi_eui_overlay.ipynb)
 

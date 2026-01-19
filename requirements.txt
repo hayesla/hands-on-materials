@@ -1,4 +1,12 @@
-sunpy[all]
-sunpy-soar         
-stixpy
 jupyterlab
+ipykernel
+ipywidgets
+ipympl
+sunpy[all]
+astrospice
+sunpy-soar
+stixpy
+sospice==0.0.8
+sunraster==0.7.0
+solo-epd-loader
+cmcrameri

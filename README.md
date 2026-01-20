@@ -17,8 +17,8 @@ Introductory notebooks contributed by each instrument team, including:
 
 **Instruments covered include:**
 
-- **Solar Orbiter:** EUI, STIX, SPICE, PHI, Metis, SoloHI, MAG, SWA, EPD, RPW  
-- **Aditya-L1:** SUIT, VELC, HEL1OS, ASPEX, SoLEXS, MAG, PAPA  
+- **Solar Orbiter:** EUI, STIX, SPICE, PHI, Metis,  MAG, SWA, EPD
+- **Aditya-L1:** SUIT, VELC, HEL1OS, ASPEX, SoLEXS, MAG
 - **Proba-3:** ASPIICS  
 
 ---
@@ -26,8 +26,8 @@ Introductory notebooks contributed by each instrument team, including:
 ### **Cross-instrument science workflows (Thu–Fri)**  
 Focused, multi-mission analysis examples exploring:
 
-- Solar flares + eruptions (coronagraphs) (multi-wavelength & multi-mission)  
-- Small-scale in the solar atmosphere 
+- Solar flares 
+- Coronal structures and eruptions in the corona with multi-mission coronagraphs
 - In-situ heliospheric variability (solar wind & energetic particles)  
 
 ---
